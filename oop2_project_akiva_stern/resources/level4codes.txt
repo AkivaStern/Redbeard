@@ -1,0 +1,32 @@
+w 0
+o 2 1 1 1
+
+b 
+r 
+p
+y
+
+key	 color  lbor  rbord  xdir  ydir  width
+1     b                                100
+2     b                                80
+3           1.7      2      200     0
+4     b                                 70
+5     b                                 70
+6     b                                 70
+7     b                                 70
+8     b                                 900
+9           2.4       2.5       250   0
+0     b                                  100
+a     p                                   90
+c     r                                   140
+d     r                                    100
+e     b                                    170
+f     y                                    120
+g     p                                    90
+h     p                                    90
+i     p                                    90
+j     p                                    90
+l     p                                    90
+m     p                                    1000
+n     b                                    597
+s            2     2      180   0
